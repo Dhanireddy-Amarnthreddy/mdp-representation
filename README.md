@@ -1,37 +1,53 @@
 # MDP REPRESENTATION
-
+### Date:  ___ / ___ /____
+### Reg No.: 212221240013
 ## AIM:
-Write your aim here
+To represent a Markov Decision Process(MDP) problem in the following ways.
+
+1. Text representation
+2. Graphical representation
+3. Python - Dictonary representation
 
 ## PROBLEM STATEMENT:
 
 ### Problem Description
-Write your answer here
+To develop an environment consisting of a mobile tower as the start and the house as the goal. The aim is to make sure the network signals reaches the house.
 
 ### State Space
-Write your answer here
+{0,1,2,3,4,5,6,7}
 
 ### Sample State
-Write your answer here
+4
 
 ### Action Space
-Write your answer here
+* {0} Moving Up
+* {1} Moving Right
+* {2} Moving Down
+* {3} Moving Left
 
 ### Sample Action
-Write your answer here
+{1} Moving Right
 
 ### Reward Function
-Write your answer here
+* +1 - If the goal is reached
+* 0 - Otherwise
 
-### Graphical Representation
-Write your answer here
+## GRAPHICAL REPRESENTATION:
+![image](https://github.com/Dhanireddy-Amarnthreddy/mdp-representation/assets/94165103/6766f547-7e5a-4f3b-889a-9b066143e1c4)
+
+
 
 ## PYTHON REPRESENTATION:
-Write your code here
+<img width="239" alt="Screenshot 2024-02-22 211858" src="https://github.com/Dhanireddy-Amarnthreddy/mdp-representation/assets/94165103/d7cc26ed-dc16-4ed6-b1f0-da4873a6d0f2">
+
+
 
 ## OUTPUT:
-Write your Python output here
+<img width="359" alt="Screenshot 2024-02-22 212039" src="https://github.com/Dhanireddy-Amarnthreddy/mdp-representation/assets/94165103/175cf937-f244-4125-92a0-0749b125c8e4">
+
+
 
 ## RESULT:
-Write your output here
+Thus a real world problem is represented as Markov Decision Problem in the following ways successfully: Text Representation, Graphical Representation, Python Representation
+
 

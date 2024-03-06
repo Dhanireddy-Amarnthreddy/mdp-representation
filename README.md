@@ -1,4 +1,5 @@
 # MDP REPRESENTATION
+### Name:D.Amarnath Reddy
 ### Reg No.: 212221240012
 ## AIM:
 To represent a Markov Decision Process(MDP) problem in the following ways.

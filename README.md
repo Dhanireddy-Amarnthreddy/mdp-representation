@@ -45,6 +45,7 @@ To develop an environment consisting of a mobile tower as the start and the hous
 
 ## OUTPUT:
 <img width="359" alt="Screenshot 2024-02-22 212039" src="https://github.com/Dhanireddy-Amarnthreddy/mdp-representation/assets/94165103/175cf937-f244-4125-92a0-0749b125c8e4">
+
 <img width="279" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/mdp-representation/assets/94165103/66e43529-b977-4f5f-b926-71cebfe84b43">
 
 
